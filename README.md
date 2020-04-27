@@ -29,3 +29,24 @@ const App: React.FC = () => {
   );
 };
 ```
+
+## 🍻 Components Included
+
+### KeyboardHandleView
+
+```tsx
+import KeyboardHandleView from 'react-native-keyboard-handle-view';
+```
+
+### KeyboardDismissView
+
+```tsx
+import { KeyboardDismissView } from 'react-native-keyboard-handle-view';
+```
+
+### KeyboardAwareScrollView
+Exported from the dependency [react-native-keyboard-aware-scroll-view](https://github.com/APSL/react-native-keyboard-aware-scroll-view)
+
+```tsx
+import { KeyboardAwareScrollView } from 'react-native-keyboard-handle-view';
+```
